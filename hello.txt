@@ -1,2 +1,3 @@
-going to create 2 branch and see is there any conflicts
+going to create 2 branch and see is there any conflict
 1.going to edit second time using branch-2
+
